@@ -1,0 +1,27 @@
+[image]  loaded '/home/nvidia/jetson-inference/examples/human.jpeg'  (318x159, 3 channels)
+Detected 2 objects in image
+<detectNet.Detection object>
+   -- ClassID: 1
+   -- Confidence: 0.604004
+   -- Left:    205.271
+   -- Top:     22.6699
+   -- Right:   256.201
+   -- Bottom:  157.447
+   -- Width:   50.9297
+   -- Height:  134.777
+   -- Area:    6864.17
+   -- Center:  (230.736, 90.0586)
+<detectNet.Detection object>
+   -- ClassID: 1
+   -- Confidence: 0.559082
+   -- Left:    49.2217
+   -- Top:     40.5652
+   -- Right:   110.244
+   -- Bottom:  127.945
+   -- Width:   61.0225
+   -- Height:  87.3801
+   -- Area:    5332.15
+   -- Center:  (79.7329, 84.2552)
+[image]  saved '/home/nvidia/jetson-inference/examples/human_finish.jpeg'  (318x159, 3 channels)
+Saved detection result to /home/nvidia/jetson-inference/examples/human_finish.jpeg
+
